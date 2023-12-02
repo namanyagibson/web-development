@@ -1,0 +1,69 @@
+body{
+    background-color: aliceblue;
+}
+
+.list-group-item{
+    border: none;
+}
+
+.navbar{
+border: 2px none white;
+margin: 5px;
+height: min-content;
+}
+
+.navdiv{
+display:flex;
+justify-content: space-between;
+margin-top: 10px;
+margin-bottom: 0;
+}
+
+.star{
+    margin-left: 500px;
+}
+
+.top-items{
+    margin-right: 500px;
+}
+
+li{
+    display: inline-block;
+list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.bi{
+    font-size: 25px;
+}
+
+.card{
+    margin-left: 30px;
+}
+
+.list-group-item{
+    border: none;
+}
+
+.card ul li a{
+    color: rgb(red, green, blue);
+}
+
+.card ul li:hover{
+    background-color: grey;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.product-card{
+    width: 80%;
+    margin: 10px;
+}
